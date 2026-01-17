@@ -1,0 +1,34 @@
+# Predição de Peso da Tilápia do Nilo por Meio do Fenótipo usando Redes Neurais Convolucionais
+
+Este repositório contém o código, experimentos e análises referentes ao projeto de **predição do peso da Tilápia do Nilo (Oreochromis niloticus)** a partir de imagens do fenótipo, utilizando **Redes Neurais Convolucionais (CNNs)**.  
+O projeto tem como objetivo investigar métodos automatizados e não invasivos para estimativa de peso em piscicultura, reduzindo o estresse animal e os custos associados ao manejo biométrico tradicional.
+
+O trabalho está associado a um **Trabalho de Conclusão de Curso (TCC)** e a um **artigo científico submetido**, e este repositório foi estruturado para permitir **extensão, reprodutibilidade e novas análises experimentais**.
+
+---
+
+## 📌 Motivação
+
+Na piscicultura, a biometria (pesagem e medição dos peixes) ainda é majoritariamente manual, exigindo a retirada dos animais da água, uso de mão de obra especializada e, em alguns casos, sedação.  
+Esse processo é custoso, estressante para os animais e pode comprometer o crescimento e a saúde dos peixes.
+
+A aplicação de **Visão Computacional e Aprendizado de Máquina**, em especial CNNs, surge como uma alternativa promissora para estimar o peso dos peixes a partir de imagens, permitindo um manejo mais eficiente, ético e automatizado.
+
+---
+
+## 🎯 Objetivos do Projeto
+
+- Desenvolver e avaliar modelos de **Redes Neurais Convolucionais** para predição de peso de tilápias a partir de imagens RGB.
+- Comparar diferentes configurações de treinamento (otimizadores, épocas, sementes).
+- Avaliar o impacto do **pré-processamento de imagens** no desempenho do modelo.
+- Analisar a estabilidade e a capacidade de generalização dos modelos.
+- Criar uma base extensível para **novos experimentos**, como:
+  - arquiteturas mais profundas,
+  - *transfer learning*,
+  - inclusão de variáveis biométricas adicionais,
+  - análises estatísticas mais detalhadas.
+
+---
+
+## 🗂️ Estrutura do Repositório (sugerida)
+
